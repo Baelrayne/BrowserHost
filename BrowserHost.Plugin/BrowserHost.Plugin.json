@@ -8,5 +8,5 @@
 	"RepoUrl": "https://github.com/ackwell/BrowserHost",
 	"ApplicableVersion": "any",
 	"Tags": [ "framework", "browser", "inlay" ],
-	"DalamudApiLevel": 4
+	"DalamudApiLevel": 5
 }
